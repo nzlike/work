@@ -1,0 +1,7 @@
+E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\Definitions.work.h
+E:\work\work\work\Source\work\workGameModeBase.h
+E:\EU\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\EU\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\EU\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\EU\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Inc\work\workGameModeBase.generated.h

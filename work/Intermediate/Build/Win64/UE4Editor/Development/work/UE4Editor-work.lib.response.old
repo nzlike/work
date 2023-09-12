@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-work.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\work\work\work\Intermediate\Build\Win64\workEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\work.cpp.obj"
+"E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\workGameModeBase.cpp.obj"
+"E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\work.init.gen.cpp.obj"
+"E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\workGameModeBase.gen.cpp.obj"
+"E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\Default.rc2.res"
+/OUT:"E:\work\work\work\Intermediate\Build\Win64\UE4Editor\Development\work\UE4Editor-work.lib"
